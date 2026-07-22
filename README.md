@@ -21,14 +21,6 @@
 - Cloud Firestore
 
 ---
-
-## 🚀 Getting Started
-
-```bash
-flutter pub get
-flutter run
-```
-
 **Hoor Mahmoud**
 
 ⭐ If you like this project, don't forget to give it a star!
